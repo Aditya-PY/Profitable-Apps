@@ -16,7 +16,7 @@ The data sets used in this project can be viewed by clicking the following links
 
 *** 
 
-In the process of analysing this data for the project I tryto focus on getting more comfortable with the following python topics/concepts:
+In the process of analysing this data for the project I try to focus on getting more comfortable with the following python topics/concepts:
 
 * The basics of programming in Python (arithmetical operations, variables, common data types, etc.)
 * List and for loops
