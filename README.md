@@ -1,7 +1,5 @@
 # Profitable App Profiles for the App Store and Google Play Markets
 
-This is a Guided Project by Dataquest.io
-
 ## Introduction
 
 This project will focus on analysing the data from apps in the app store and google play markets to deduce which app's are the most profitable.
